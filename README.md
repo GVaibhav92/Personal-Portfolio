@@ -4,7 +4,7 @@ A responsive personal portfolio showcasing my work as a backend and systems-focu
 
 Built with **React, TypeScript, Tailwind CSS, Framer Motion, and Lottie**, with an emphasis on clean UI, subtle interactions, accessibility, and a strong engineering-focused visual identity.
 
-**Live site:** [Add your Vercel URL after deployment]
+**Live site:** [https://gupta-vaibhav-92.vercel.app/]
 
 ---
 
