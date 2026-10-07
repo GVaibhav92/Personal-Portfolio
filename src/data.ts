@@ -88,7 +88,7 @@ export const projects: Project[] = [
       'Framer Motion',
       'Vercel',
     ],
-    repo: 'https://github.com/GVaibhav92',
+    repo: 'https://github.com/GVaibhav92/Personal-Portfolio',
     points: [
       'Single-page portfolio with an active-section glass navbar and light and dark theme support.',
       'Interactive request-flow demo featuring a dancing Go panda drawn in SVG.',
